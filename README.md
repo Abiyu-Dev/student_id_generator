@@ -9,6 +9,6 @@ a student ID generator built with
 
 1.go to your terminal and clone the repository.
 
-'''bash
+```bash
 git clone https://github.com/Abiyu-Dev/student_id_generator.git
-'''
+```
